@@ -13,6 +13,8 @@ Allow the visitors for on-line Registration of Website by Free Registration.
 
 Prerequesit
 
+Software Reqiurements : Visual Studio, SQL Server 2008
+
 
 
 
